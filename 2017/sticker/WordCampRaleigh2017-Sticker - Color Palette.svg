@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="925px" height="991px" viewBox="0 0 925 991" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Color Palette</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="WordCamp-Raleigh-2017-Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Color-Palette">
+            <g id="Green-Colors" transform="translate(25.000000, 669.000000)">
+                <g id="RGBA:-156,-207,-179,-100" transform="translate(450.000000, 54.000000)">
+                    <text id="RGBA:-156,-207,-179," font-family="Biko" font-size="18" font-weight="normal" fill="#000000">
+                        <tspan x="8.416" y="238">RGBA: 156, 207, 179, 100</tspan>
+                    </text>
+                    <rect id="Rectangle" fill="#9CCFB3" x="0" y="0" width="200" height="200"></rect>
+                </g>
+                <g id="RGBA:-59,-131,-91,-100" transform="translate(225.000000, 54.000000)">
+                    <text id="RGBA:-59,-131,-91,-1" font-family="Biko" font-size="18" font-weight="normal" fill="#000000">
+                        <tspan x="18.766" y="238">RGBA: 59, 131, 91, 100</tspan>
+                    </text>
+                    <rect id="Rectangle" fill="#3B835B" x="0" y="0" width="200" height="200"></rect>
+                </g>
+                <g id="RGBA:-36,-80,-56,-100" transform="translate(0.000000, 54.000000)">
+                    <text id="RGBA:-36,-80,-56,-10" font-family="Biko" font-size="18" font-weight="normal" fill="#000000">
+                        <tspan x="17.839" y="238">RGBA: 36, 80, 56, 100</tspan>
+                    </text>
+                    <rect id="Rectangle" fill="#245038" x="0" y="0" width="200" height="200"></rect>
+                </g>
+                <text font-family="Biko-Bold, Biko" font-size="24" font-weight="bold" fill="#000000">
+                    <tspan x="0" y="23">Green Colors</tspan>
+                </text>
+            </g>
+            <g id="Brown-Colors" transform="translate(25.000000, 347.000000)">
+                <g id="RGBA:-253,-234,-203,-100" transform="translate(675.000000, 54.000000)">
+                    <text id="RGBA:-253,-234,-203," font-family="Biko" font-size="18" font-weight="normal" fill="#000000">
+                        <tspan x="4.735" y="238">RGBA: 253, 234, 203, 100</tspan>
+                    </text>
+                    <rect id="Rectangle" fill="#FDEACB" x="0" y="0" width="200" height="200"></rect>
+                </g>
+                <g id="RGBA:-214,-182,-143,-100" transform="translate(450.000000, 54.000000)">
+                    <text id="RGBA:-214,-182,-143," font-family="Biko" font-size="18" font-weight="normal" fill="#000000">
+                        <tspan x="8.596" y="238">RGBA: 214, 182, 143, 100</tspan>
+                    </text>
+                    <rect id="Rectangle" fill="#D6B68F" x="0" y="0" width="200" height="200"></rect>
+                </g>
+                <g id="RGBA:-211,-110,-42,-100" transform="translate(225.000000, 54.000000)">
+                    <text id="RGBA:-211,-110,-42," font-family="Biko" font-size="18" font-weight="normal" fill="#000000">
+                        <tspan x="14.644" y="238">RGBA: 211, 110, 42, 100</tspan>
+                    </text>
+                    <rect id="Rectangle" fill="#D36E2A" x="0" y="0" width="200" height="200"></rect>
+                </g>
+                <g id="RGBA:-131,-65,-59,-100" transform="translate(0.000000, 54.000000)">
+                    <text id="RGBA:-131,-65,-59,-1" font-family="Biko" font-size="18" font-weight="normal" fill="#000000">
+                        <tspan x="17.299" y="238">RGBA: 131, 65, 59, 100</tspan>
+                    </text>
+                    <rect id="Rectangle" fill="#83413B" x="0" y="0" width="200" height="200"></rect>
+                </g>
+                <text font-family="Biko-Bold, Biko" font-size="24" font-weight="bold" fill="#000000">
+                    <tspan x="0" y="23">Brown Colors</tspan>
+                </text>
+            </g>
+            <g id="Dark-Colors" transform="translate(25.000000, 25.000000)">
+                <g id="RGBA:-16,-24,-22,-100" transform="translate(225.000000, 54.000000)">
+                    <text id="RGBA:-16,-24,-22,-10" font-family="Biko" font-size="18" font-weight="normal" fill="#000000">
+                        <tspan x="20.296" y="238">RGBA: 16, 24, 22, 100</tspan>
+                    </text>
+                    <rect id="Rectangle" fill="#101816" x="0" y="0" width="200" height="200"></rect>
+                </g>
+                <g id="RGBA:-0,-0,-0,-100" transform="translate(0.000000, 54.000000)" fill="#000000">
+                    <text font-family="Biko" font-size="18" font-weight="normal">
+                        <tspan x="30.322" y="238">RGBA: 0, 0, 0, 100</tspan>
+                    </text>
+                    <rect id="Rectangle" x="0" y="0" width="200" height="200"></rect>
+                </g>
+                <text font-family="Biko-Bold, Biko" font-size="24" font-weight="bold" fill="#000000">
+                    <tspan x="0" y="23">Dark Colors</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
