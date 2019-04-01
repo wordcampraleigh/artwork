@@ -1,0 +1,33 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/budnorthern/Google Drive/Unity Shared/Philanthropy/2019 Wordcamp Raleigh/to print/WordPress Camp Name Badge Folder/Document fonts/Icon
+FileModTime:574973856
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-Black
+FamilyName:Arial Black
+StyleName:Regular
+MenuName:Arial Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Arial Black
+WritingScript:Roman
+OutlineFileName:/Users/budnorthern/Google Drive/Unity Shared/Philanthropy/2019 Wordcamp Raleigh/to print/WordPress Camp Name Badge Folder/Document fonts/Arial Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:122556
+FileModTime:556235900
+NameArray:0,Mac,4,Arial Black
+NameArray:0,Win,1,Arial Black
+%EndFont
+
